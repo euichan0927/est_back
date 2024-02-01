@@ -33,3 +33,5 @@ T
 $Chapter06/Inheritage/Motorcycle.java,f\f\ff23523a3dd7f86151cbf92fba6f6af1dd24f989
 M
 Chapter06/Inheritage/Car.java,4\c\4c33c49bbd7c36ffad776448ab17bfbea91614fa
+=
+DailyQuiz0130,f\1\f1458d0e4190913b5a0ef2803bb5afb82c2a1f09
