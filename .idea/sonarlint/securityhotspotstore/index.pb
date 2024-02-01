@@ -35,3 +35,13 @@ M
 Chapter06/Inheritage/Car.java,4\c\4c33c49bbd7c36ffad776448ab17bfbea91614fa
 =
 DailyQuiz0130,f\1\f1458d0e4190913b5a0ef2803bb5afb82c2a1f09
+G
+DailyQuiz0201/Item.java,e\f\ef08031f71bc20e62c465a1db5dcd2591c072756
+H
+DailyQuiz0201/Album.java,7\d\7d69aa63a9d11badae09d29ec2ddb554880bc09a
+H
+DailyQuiz0201/Movie.java,e\3\e33450f73746b887ed6c4ccb3b89c22bf73069ff
+G
+DailyQuiz0201/Book.java,c\4\c4576f4a22e041c8c8f3c476ddd0dca2835807f1
+N
+DailyQuiz0201/ItemManager.java,5\b\5bedcda0c67d56087f6b50933bda3465939fa410
