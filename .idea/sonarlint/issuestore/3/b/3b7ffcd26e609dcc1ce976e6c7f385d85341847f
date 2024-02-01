@@ -1,0 +1,7 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "a".(ò†äıÿÿÿÿ8ÏÓ õÕ1
+L	java:S106"+Replace this use of System.out by a logger.(À™Û¯úÿÿÿÿ8ÈÆåñÕ1
+H
+java:S1481"&Remove this unused "a" local variable.(ò†äıÿÿÿÿ8ÓÓ õÕ1
+G	java:S106"+Replace this use of System.out by a logger.(Î‡ì8©úëñÕ1
