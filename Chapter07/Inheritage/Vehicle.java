@@ -1,4 +1,4 @@
-package Chapter06.Inheritage;
+package Chapter07.Inheritage;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package Chapter06.Inheritage;
+package Chapter07.Inheritage;
 
 public class Motorcycle extends Vehicle{
 	public Motorcycle(String model, int speed, boolean stop){
