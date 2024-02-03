@@ -41,3 +41,17 @@ Q
 !Chapter07/polymorpism/Sample.java,d\a\daa58d5fcd07b8c4191e0f64a268c2a8fd1d57b0
 W
 'Chapter07/polymorpism/InterfaceUse.java,e\6\e60d9d19bc9571ab9c5bb3b141795d4b132d912a
+H
+WeeklyQuiz02/Beauty.java,3\9\3964eb86c3b0f2c0802c3114ce38fc8da2f8a8a7
+I
+WeeklyQuiz02/Grocery.java,b\d\bd0f0420f927cb2e45bcc0719b45343b9a5fbb37
+P
+ WeeklyQuiz02/LargeAppliance.java,6\b\6bcc043704d2b701ba71e1001a316d1de5f1c561
+Z
+*WeeklyQuiz02/DeliveryChargeCalculator.java,3\5\3546013aa9a9e04e06e90ab382d6803871c4cbf3
+I
+WeeklyQuiz02/Product.java,3\3\33c484d686cc3a47bdf3562e80d6a0009b3c3cdd
+I
+WeeklyQuiz02/Printer.java,4\5\4526ca7e2ea86f1b61482543883fed7c982fab8d
+G
+WeeklyQuiz02/Sales.java,b\c\bc07ceb0af177c8b1cc1bca0005891582d613599
