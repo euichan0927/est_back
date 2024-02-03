@@ -10,6 +10,7 @@ public class LargeAppliance extends Product implements DeliveryChargeCalculator{
 	int price=99000;
 	double weight = 11.0;
 
+	@Override
 	public int getDeliveryCharge(double weight,int price){
 		if(weight<3){
 			if(price<30000) return 1000;
@@ -26,12 +27,15 @@ public class LargeAppliance extends Product implements DeliveryChargeCalculator{
 			else return 0;
 		}
 	}
+	@Override
 	public String getName(){
 		return this.name;
 	}
+	@Override
 	public double getWeight(){
 		return this.weight;
 	}
+	@Override
 	public int getPrice(){
 		return this.price;
 	}

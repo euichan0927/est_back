@@ -11,7 +11,7 @@ public class Grocery extends Product implements DeliveryChargeCalculator{
 	double weight=1.2;
 
 
-
+	@Override
 	public int getDeliveryCharge(double weight,int price){
 		if(weight<3){
 			if(price<30000) return 1000;
@@ -28,13 +28,11 @@ public class Grocery extends Product implements DeliveryChargeCalculator{
 			else return 0;
 		}
 	}
-	public String getName(){
-		return this.name;
-	}
-	public double getWeight(){
-		return this.weight;
-	}
-	public int getPrice(){
-		return this.price;
-	}
+	@Override
+	public String getName() {return this.name;}
+	@Override
+	public double getWeight() {return this.weight;}
+	@Override
+	public int getPrice() {return this.price;}
+
 }

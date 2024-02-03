@@ -55,3 +55,5 @@ I
 WeeklyQuiz02/Printer.java,4\5\4526ca7e2ea86f1b61482543883fed7c982fab8d
 G
 WeeklyQuiz02/Sales.java,b\c\bc07ceb0af177c8b1cc1bca0005891582d613599
+N
+Chapter05/VariableExample.java,5\0\50cce91ebc27ad4da637d584d2bd6c4a17686e1f
