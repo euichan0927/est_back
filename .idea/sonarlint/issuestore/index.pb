@@ -37,3 +37,21 @@ G
 WeeklyQuiz02/Sales.java,b\c\bc07ceb0af177c8b1cc1bca0005891582d613599
 N
 Chapter05/VariableExample.java,5\0\50cce91ebc27ad4da637d584d2bd6c4a17686e1f
+K
+Chapter08/InterfaceUse.java,e\5\e51d94b2fc67c772ffa9eb119501c9e3d48c1608
+W
+'Chapter08/Polymorpism/InterfaceUse.java,6\6\66ca02b3881f781eba33e20d24d9ae487a0a59c6
+J
+Chapter08/inerf/Adult.java,f\4\f45ecbf3b42bb2e5f7a8f41264861f3988d2a5d7
+J
+Chapter08/inerf/Child.java,3\7\37ca8f0f6920dfd4b079b2d62f00e26c6a4f633d
+I
+Chapter08/inerf/Walk.java,a\5\a5ca213a617fa666d04aca212d5e9d91d65d2df4
+H
+Chapter08/inerf/Run.java,1\0\109ac2308bca6fe70004e01050decc648053f619
+I
+Chapter08/inerf/Main.java,7\0\7085965f637191b3f7b3ae2bb6e2c77f24859015
+I
+Chapter08/inerf/Baby.java,0\1\015dfc8c88807367370bf8b2d9d392c1f072dcf7
+J
+Chapter08/inerf/Crawl.java,6\5\650ccabb819533f77e3875973e1e3eb41799e9a0

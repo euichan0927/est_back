@@ -1,4 +1,4 @@
-package Chapter07.polymorpism;
+package Chapter08.Polymorpism;
 
 public class InterfaceUse {
 	public static void main(String[] args) {
