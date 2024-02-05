@@ -55,3 +55,13 @@ I
 Chapter08/inerf/Baby.java,0\1\015dfc8c88807367370bf8b2d9d392c1f072dcf7
 J
 Chapter08/inerf/Crawl.java,6\5\650ccabb819533f77e3875973e1e3eb41799e9a0
+Z
+*Chapter08/inheritInterface/InterfaceA.java,f\3\f30c61c6ca911c0c110048d0589b3c4a777344a9
+Z
+*Chapter08/inheritInterface/InterfaceB.java,1\d\1dbd24c774b792e69f43524e4a23c56eb4e60ae1
+Z
+*Chapter08/inheritInterface/InterfaceC.java,2\3\237f344fee5c0db8ade10c69dfd3061443b831fb
+^
+.Chapter08/inheritInterface/InterfaceCImpl.java,0\9\09f69409f35b713274db7c4520edfb6304c52d9e
+T
+$Chapter08/inheritInterface/Main.java,c\4\c4f3ac96ca38d203616b58f86b057f38cb57d007
