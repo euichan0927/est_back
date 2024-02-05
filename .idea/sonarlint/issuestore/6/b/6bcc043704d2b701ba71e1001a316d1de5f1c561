@@ -1,11 +1,6 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÿÓ8‰­ôÖ1
-M
-java:S2387	"+"name" is the name of a field in "Product".(ä¸ûÿÿÿÿ8Íç…õÖ1
-I
-java:S2387
-","price" is the name of a field in "Product".(•ö×§8Íç…õÖ1
-O
-java:S2387"-"weight" is the name of a field in "Product".(²Ñ¦³ıÿÿÿÿ8Íç…õÖ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÿÓ8Ú‰½·×1
 o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ì˜ª8ê ­ôÖ1
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ì˜ª8ç‰½·×1
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8½åÊ·×1

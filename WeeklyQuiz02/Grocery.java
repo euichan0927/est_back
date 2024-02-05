@@ -6,10 +6,10 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Grocery extends Product implements DeliveryChargeCalculator{
-	String name="닭가슴살10팩";
-	int price = 35000;
-	double weight=1.2;
 
+	public Grocery(String name, int price, double weight) {
+		super(name, price, weight);
+	}
 
 	@Override
 	public int getDeliveryCharge(double weight,int price){

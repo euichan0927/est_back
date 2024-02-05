@@ -1,14 +1,17 @@
 package WeeklyQuiz02;
 
+import java.math.BigDecimal;
+
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
 public class LargeAppliance extends Product implements DeliveryChargeCalculator{
-	String name="냉장고";
-	int price=99000;
-	double weight = 11.0;
+
+	public LargeAppliance(String name, int price, double weight) {
+		super(name, price, weight);
+	}
 
 	@Override
 	public int getDeliveryCharge(double weight,int price){

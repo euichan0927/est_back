@@ -6,9 +6,9 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Beauty extends Product implements DeliveryChargeCalculator{
-	String name="Toner";
-	int price = 7000;
-	double weight = 0.1;
+	public Beauty(String name, int price, double weight) {
+		super(name, price, weight);
+	}
 
 	@Override
 	public int getDeliveryCharge(double weight,int price){

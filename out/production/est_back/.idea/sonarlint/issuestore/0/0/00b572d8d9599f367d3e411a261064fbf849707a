@@ -1,20 +1,0 @@
-
-7
-java:S1220""Move this file to a named package.8òôÕ Õ1
-L	java:S106"+Replace this use of System.out by a logger.(›êŞÂúÿÿÿÿ8„õÕ Õ1
-G	java:S106"+Replace this use of System.out by a logger.(àÓ¨¨8…õÕ Õ1
-L	java:S106"+Replace this use of System.out by a logger.(…ÚÇˆıÿÿÿÿ8…õÕ Õ1
-L	java:S106"+Replace this use of System.out by a logger.(²Õ·Àøÿÿÿÿ8…õÕ Õ1
-L	java:S106"+Replace this use of System.out by a logger.(²–Úòûÿÿÿÿ8…õÕ Õ1
-L	java:S106"+Replace this use of System.out by a logger.(›êŞÂúÿÿÿÿ8…õÕ Õ1
-G	java:S106"+Replace this use of System.out by a logger.(àÓ¨¨8†õÕ Õ1
-L	java:S106"+Replace this use of System.out by a logger.(…ÚÇˆıÿÿÿÿ8†õÕ Õ1
-L	java:S106"+Replace this use of System.out by a logger.(²Õ·Àøÿÿÿÿ8†õÕ Õ1
-L	java:S106 "+Replace this use of System.out by a logger.(Ò¥÷Şûÿÿÿÿ8†õÕ Õ1
-G	java:S106!"+Replace this use of System.out by a logger.(Ì¤¥•8†õÕ Õ1
-G	java:S106""+Replace this use of System.out by a logger.(“Êõö8†õÕ Õ1
-<
-java:S2129%" Remove this "String" constructor(ñ·Œ8ˆõÕ Õ1
-<
-java:S2129&" Remove this "String" constructor(´åÜi8‰õÕ Õ1
-L	java:S106'"+Replace this use of System.out by a logger.(â’â¨ùÿÿÿÿ8‰õÕ Õ1

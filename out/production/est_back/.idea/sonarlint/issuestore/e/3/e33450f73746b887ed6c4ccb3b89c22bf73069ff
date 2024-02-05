@@ -1,10 +1,0 @@
-
-v
-java:S1104"TMake director a static final constant or non-public and provide accessors if needed.(ğÃ¸ƒüÿÿÿÿ8¹ã€Ö1
-s
-java:S1104"QMake actor a static final constant or non-public and provide accessors if needed.(Ñçè²úÿÿÿÿ8ºã€Ö1
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ…ü8ºã€Ö1
-¡
-java:S1845"Rename method "display" to prevent any misunderstanding/clash with method "Display" defined in superclass "DailyQuiz0201.Item".(ãëš²ÿÿÿÿÿ8‰èéÖ1
-G	java:S106"+Replace this use of System.out by a logger.(¥ü¾¥8âÉ¹Ö1
-G	java:S106"+Replace this use of System.out by a logger.(­‡é8æı¹Ö1
