@@ -1,8 +1,13 @@
 
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü¦‰üıÿÿÿÿ8Ü­Òæ×1
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ñ°½úøÿÿÿÿ8‚®Òæ×1
+G	java:S106"+Replace this use of System.out by a logger.(ŞñÂÏ8•®Òæ×1
 i
-java:S2095
-"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¨®öû8‚®Òæ×1
-i
-java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡8“®Òæ×1
-G	java:S106"+Replace this use of System.out by a logger.(÷óÏ÷8•®Òæ×1
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡8“®Òæ×1
+F	java:S106"+Replace this use of System.out by a logger.(¸ØïU8æßöæ×1
+L	java:S106"+Replace this use of System.out by a logger.(Íæñ†úÿÿÿÿ8¨šøæ×1
+L	java:S106"+Replace this use of System.out by a logger.(İè¬øÿÿÿÿ8è‹úæ×1
+F	java:S106"+Replace this use of System.out by a logger.(æÆÆg8Ã§ûæ×1
+G	java:S106"+Replace this use of System.out by a logger.(ºÙ„½8Úçûæ×1
+F	java:S106"+Replace this use of System.out by a logger.(×Ë D8Ûçûæ×1
