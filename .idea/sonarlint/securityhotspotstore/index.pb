@@ -79,3 +79,9 @@ N
 Chapter09/ExceptionSample.java,f\c\fcfe17ebc2e68bdd01025ea8d62ea83dd3813997
 M
 Chapter09/ArithException.java,e\1\e1333d18a068635ab64371b1bfb38ebbb5070867
+M
+Chapter09/AccountExample.java,3\2\324246ab932ee15f39d0b0a0f6cc319b92e976b4
+F
+Chapter09/Account.java,b\8\b8fa1b62f136340aff6fd1d37ff21cc5a7c456dd
+W
+'Chapter09/MoneySufficientException.java,6\d\6d2ee0985a2f6b48e498e21bb9ca1f78d91793f2
