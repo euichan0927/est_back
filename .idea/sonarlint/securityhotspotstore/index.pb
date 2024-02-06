@@ -77,3 +77,5 @@ P
  Chapter09/ExceptionTryCatch.java,2\1\213b30c50535d0b05b8a2a2b7dbae17e744a4e07
 N
 Chapter09/ExceptionSample.java,f\c\fcfe17ebc2e68bdd01025ea8d62ea83dd3813997
+M
+Chapter09/ArithException.java,e\1\e1333d18a068635ab64371b1bfb38ebbb5070867

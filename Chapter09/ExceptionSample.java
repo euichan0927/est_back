@@ -10,7 +10,7 @@ public class ExceptionSample {
 		BufferedReader br = null;
 		System.out.println("0");
 		try{
-			br = new BufferedReader(new FileReader("존재하지_않는_파일"));
+			br = new BufferedReader(new FileReader("존재하지_않는_파일"));		//예외발생 그 아래는 읽지않음 FileNotFound 예외로 이동
 			br.readLine();
 			br.close();
 			System.out.println("1");
