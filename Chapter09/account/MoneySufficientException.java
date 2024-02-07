@@ -1,4 +1,4 @@
-package Chapter09;
+package Chapter09.account;
 
 public class MoneySufficientException extends Exception{
 	public MoneySufficientException() {

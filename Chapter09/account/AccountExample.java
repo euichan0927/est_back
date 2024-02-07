@@ -1,4 +1,4 @@
-package Chapter09;
+package Chapter09.account;
 
 public class AccountExample {
 	public static void main(String[] args) {
