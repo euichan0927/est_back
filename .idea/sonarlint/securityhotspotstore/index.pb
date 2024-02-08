@@ -113,3 +113,13 @@ B
 Chapter10/Box.java,3\3\330f0a74497615772adfd5f77f62986fe3a853fc
 I
 Chapter10/BoxExample.java,5\3\53a617545515f5515f180d81f9168a751ec356b6
+I
+WeeklyQuiz03/Contact.java,4\7\47454d5d72baa5cc26fe075c32862c2b32f4d369
+Q
+!WeeklyQuiz03/BusinessContact.java,a\b\abfc19cae6a1db59e455a561726ead407ed11262
+Q
+!WeeklyQuiz03/PersonalContact.java,8\8\880e3be5178d1d78ec5a5c633bdf8fd79fc39947
+M
+WeeklyQuiz03/AddressBook.java,0\c\0c2d62897fa9e8c3d67fe7e2cbe93bd475063d4a
+F
+WeeklyQuiz03/Main.java,6\7\673867c9d4852dcf710af5829c59ac6c16f7085a

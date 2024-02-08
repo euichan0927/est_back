@@ -1,0 +1,43 @@
+
+n
+java:S11921"QDefine a constant instead of duplicating this literal " ,ì „í™”ë²ˆí˜¸: " 4 times.(ÕŞó²8çùÏ¾Ø1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™Ù…’úÿÿÿÿ8éùÏ¾Ø1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÆûÏ¾Ø1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Çµí‘8ÎûÏ¾Ø1
+`
+java:S1854"CRemove this useless assignment to local variable "personalContact".(“à½ş8ÏûÏ¾Ø1
+`
+java:S1854"CRemove this useless assignment to local variable "businessContact".(’Ÿ—8ÏûÏ¾Ø1
+Q
+java:S1481"4Remove this unused "businessContact" local variable.(’Ÿ—8ÔûÏ¾Ø1
+Q
+java:S1481"4Remove this unused "personalContact" local variable.(“à½ş8ÔûÏ¾Ø1
+L	java:S106"+Replace this use of System.out by a logger.(Ó»ìºøÿÿÿÿ8ÕûÏ¾Ø1
+T
+java:S6126"2Replace this String concatenation with Text block.(Ó»ìºøÿÿÿÿ8ÕûÏ¾Ø1
+C	java:S131""Add a default case to this switch.(³›¯°ùÿÿÿÿ8ÖûÏ¾Ø1
+L	java:S106"+Replace this use of System.out by a logger.(ñ¶˜´ÿÿÿÿÿ8×ûÏ¾Ø1
+L	java:S106"+Replace this use of System.out by a logger.(û¸Ñ…ùÿÿÿÿ8×ûÏ¾Ø1
+G	java:S106"+Replace this use of System.out by a logger.(×œÅÿ8ØûÏ¾Ø1
+L	java:S106""+Replace this use of System.out by a logger.(ñ¶˜´ÿÿÿÿÿ8ØûÏ¾Ø1
+L	java:S106$"+Replace this use of System.out by a logger.(û¸Ñ…ùÿÿÿÿ8ØûÏ¾Ø1
+G	java:S106&"+Replace this use of System.out by a logger.(—ğã8ÙûÏ¾Ø1
+G	java:S106,"+Replace this use of System.out by a logger.(Ş²ïÅ8ÚûÏ¾Ø1
+u
+java:S62010"XReplace this instanceof check and cast with 'instanceof BusinessContact businesscontact'(ƒ³ú…8ÛûÏ¾Ø1
+G	java:S1061"+Replace this use of System.out by a logger.(ÕŞó²8ÛûÏ¾Ø1
+z
+java:S62013"XReplace this instanceof check and cast with 'instanceof PersonalContact personalcontact'(êÑøÛúÿÿÿÿ8ÜûÏ¾Ø1
+L	java:S1064"+Replace this use of System.out by a logger.(Ê°ú·ÿÿÿÿÿ8İûÏ¾Ø1
+L	java:S106:"+Replace this use of System.out by a logger.(òéÏŸùÿÿÿÿ8ŞûÏ¾Ø1
+u
+java:S6201?"XReplace this instanceof check and cast with 'instanceof BusinessContact businesscontact'(ƒ³ú…8àûÏ¾Ø1
+G	java:S106@"+Replace this use of System.out by a logger.(ÕŞó²8áûÏ¾Ø1
+z
+java:S6201B"XReplace this instanceof check and cast with 'instanceof PersonalContact personalcontact'(êÑøÛúÿÿÿÿ8âûÏ¾Ø1
+L	java:S106C"+Replace this use of System.out by a logger.(Ê°ú·ÿÿÿÿÿ8âûÏ¾Ø1
+L	java:S106J"+Replace this use of System.out by a logger.(¸½—õûÿÿÿÿ8ãûÏ¾Ø1
+â
+java:S6541"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 65 to 64, Complexity from 16 to 14, Nesting Level from 5 to 2, Number of Variables from 7 to 6.(Çµí‘8äûÏ¾Ø1
