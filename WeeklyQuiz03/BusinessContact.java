@@ -1,9 +1,5 @@
 package WeeklyQuiz03;
 
-import lombok.Getter;
-import lombok.Setter;
-
-
 public class BusinessContact extends Contact{
 	String company;
 	BusinessContact(){

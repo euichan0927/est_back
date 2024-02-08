@@ -1,4 +1,18 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™Ù…’úÿÿÿÿ8¿èÜ½Ø1
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§ðïçùÿÿÿÿ8½Ã±¾Ø1
+n
+java:S1192"QDefine a constant instead of duplicating this literal " ,ì „í™”ë²ˆí˜¸: " 4 times.(ÕÞó²8Øñ‰ÀØ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™Ù…’úÿÿÿÿ8Ùñ‰ÀØ1
+G	java:S106"+Replace this use of System.out by a logger.(Þ²ïÅ8ùñ‰ÀØ1
+u
+java:S6201"XReplace this instanceof check and cast with 'instanceof BusinessContact businesscontact'(ƒ³ú…8úñ‰ÀØ1
+G	java:S106"+Replace this use of System.out by a logger.(ÕÞó²8úñ‰ÀØ1
+z
+java:S6201"XReplace this instanceof check and cast with 'instanceof PersonalContact personalcontact'(êÑøÛúÿÿÿÿ8ûñ‰ÀØ1
+L	java:S106"+Replace this use of System.out by a logger.(Ê°ú·ÿÿÿÿÿ8ûñ‰ÀØ1
+u
+java:S6201"XReplace this instanceof check and cast with 'instanceof BusinessContact businesscontact'(ƒ³ú…8ýñ‰ÀØ1
+G	java:S106"+Replace this use of System.out by a logger.(ÕÞó²8ýñ‰ÀØ1
+z
+java:S6201 "XReplace this instanceof check and cast with 'instanceof PersonalContact personalcontact'(êÑøÛúÿÿÿÿ8þñ‰ÀØ1
+L	java:S106!"+Replace this use of System.out by a logger.(Ê°ú·ÿÿÿÿÿ8þñ‰ÀØ1
+L	java:S106("+Replace this use of System.out by a logger.(¸½—õûÿÿÿÿ8€ò‰ÀØ1

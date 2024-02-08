@@ -1,10 +1,5 @@
 package WeeklyQuiz03;
 
-import lombok.Getter;
-import lombok.Setter;
-
-@Getter
-@Setter
 public class PersonalContact extends Contact{
 	String relationship;
 	PersonalContact(){

@@ -1,9 +1,5 @@
 package WeeklyQuiz03;
 
-import lombok.Getter;
-import lombok.Setter;
-
-
 public abstract class Contact {
 	String name;
 	String phoneNumber;
