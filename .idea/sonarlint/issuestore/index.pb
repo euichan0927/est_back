@@ -105,3 +105,11 @@ Q
 test/txt.java,7\a\7ae08aa9023ae2435fd861d9ece45c32120eae0b
 8
 test.txt,4\b\4b6fcb2d521ef0fd442a5301e7932d16cc9f375a
+M
+Chapter10/ArrListExample.java,5\a\5a02900d38f96d6fa1fbd352024faf92f875ecde
+J
+Chapter10/GenericType.java,a\f\afb4fda6240f7ce1febd53f2e3e7639bee6d60a9
+B
+Chapter10/Box.java,3\3\330f0a74497615772adfd5f77f62986fe3a853fc
+I
+Chapter10/BoxExample.java,5\3\53a617545515f5515f180d81f9168a751ec356b6
