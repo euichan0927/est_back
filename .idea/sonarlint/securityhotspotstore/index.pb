@@ -141,3 +141,13 @@ N
 Chapter10/wildcard/Worker.java,9\7\970c2b78c1119391c3090864fc5273257bf3890e
 S
 #Chapter10/wildcard/HighStudent.java,9\3\935e58d032224f89ca6439b0ac446423e6f038a3
+F
+Chapter10/inherit.java,9\3\93eb58cd465eeb92ce55a58967a60f825f184b29
+N
+Chapter10/inherit/Product.java,6\f\6fe8aa1c14b1e27af291c5d1e544f2d88fae4f7c
+S
+#Chapter10/inherit/ChildProduct.java,0\5\0512aca67c4bb853862ed2d6532b92c18e87298b
+I
+Chapter10/inherit/Tv.java,2\d\2d53cfcc5ef3102dc96cf4e2443a299ac17bbe59
+Z
+*Chapter10/inherit/ChildProductExample.java,5\e\5e1983eaa5e97fe5dc9c69f7020841cba1115e0e
