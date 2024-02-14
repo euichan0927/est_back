@@ -1,7 +1,7 @@
 package WeeklyQuiz03;
 
 public class PersonalContact extends Contact{
-	String relationship;
+	private String relationship;
 	PersonalContact(){
 
 	}

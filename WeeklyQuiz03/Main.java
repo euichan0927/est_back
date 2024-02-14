@@ -4,16 +4,14 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-	static int number;
-	static String name;
-	static String phoneNumber;
-	static String company;
-	static String realationship;
+	private static int number;
+	private static String name;
+	private static String phoneNumber;
+	private static String company;
+	private static String realationship;
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
-		BusinessContact businessContact = new BusinessContact();
-		PersonalContact personalContact = new PersonalContact();
 		AddressBook addressBook = new AddressBook();
 
 		while(true){
@@ -48,6 +46,10 @@ public class Main {
 					break;
 				case 5:
 					System.exit(0);
+					break;
+				default:
+					System.out.println("올바른 번호를 입력해주세요(1~5)");
+					break;
 
 			}
 		}

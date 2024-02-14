@@ -1,8 +1,8 @@
 package WeeklyQuiz03;
 
 public abstract class Contact {
-	String name;
-	String phoneNumber;
+	private	String name;
+	private String phoneNumber;
 	Contact(){
 
 	}

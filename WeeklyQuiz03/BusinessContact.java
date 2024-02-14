@@ -1,7 +1,7 @@
 package WeeklyQuiz03;
 
 public class BusinessContact extends Contact{
-	String company;
+	private String company;
 	BusinessContact(){
 
 	}
