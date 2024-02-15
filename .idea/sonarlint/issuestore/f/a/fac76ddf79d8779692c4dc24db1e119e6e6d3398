@@ -1,0 +1,17 @@
+
+b
+java:S1192
+"FDefine a constant instead of duplicating this literal "first" 3 times.( Üh8ïÀäÔÚ1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "second" 3 times.(èòŒ«ùÿÿÿÿ8ñÀäÔÚ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú•­şÿÿÿÿ8ô—âÔÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8˜âÔÚ1
+L	java:S106"+Replace this use of System.out by a logger.(¸œçûÿÿÿÿ8˜âÔÚ1
+G	java:S106"+Replace this use of System.out by a logger.(‡ØÉ8˜âÔÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ŞÃÔêøÿÿÿÿ8‘˜âÔÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8’˜âÔÚ1
+G	java:S106"+Replace this use of System.out by a logger.(±áô8’˜âÔÚ1
+E
+java:S1481"(Remove this unused "str" local variable.(ßùúø8“˜âÔÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8•˜âÔÚ1
+L	java:S106"+Replace this use of System.out by a logger.(‡îÁÂùÿÿÿÿ8¨ÁäÔÚ1
