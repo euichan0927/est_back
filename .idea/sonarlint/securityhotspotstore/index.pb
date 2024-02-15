@@ -161,3 +161,7 @@ O
 Chapter11/ArrayListExample.java,f\a\fac76ddf79d8779692c4dc24db1e119e6e6d3398
 M
 Chapter11/HashSetExample.java,0\f\0f08adac14e446afb9861025b330a125079bb11f
+N
+Chapter11/HashSetExample2.java,f\1\f1407a53a785085e69c88791292c1952c1ba7378
+E
+Chapter11/Member.java,0\1\019414a4fa24d330abd0f0325d5fbfc2b6f2c9bc
