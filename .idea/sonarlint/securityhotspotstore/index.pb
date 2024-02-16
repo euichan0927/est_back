@@ -165,3 +165,9 @@ N
 Chapter11/HashSetExample2.java,f\1\f1407a53a785085e69c88791292c1952c1ba7378
 E
 Chapter11/Member.java,0\1\019414a4fa24d330abd0f0325d5fbfc2b6f2c9bc
+I
+Chapter11/MapExample.java,a\6\a6bab564f2ff83a66ee2b039ed3c1d31c76570b4
+N
+Chapter11/HashMapExample2.java,f\6\f6c878b83a5737e737632b17afcf6938891dd8fd
+O
+Chapter11/HashTableExample.java,0\2\025ae1a84bdb73febb22e389ffa8d3e4e5737b12

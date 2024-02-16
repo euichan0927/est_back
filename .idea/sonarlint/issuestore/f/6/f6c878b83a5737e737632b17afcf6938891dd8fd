@@ -1,0 +1,17 @@
+
+r
+java:S1192"PDefine a constant instead of duplicating this literal "ì´ Entry ìˆ˜: " 3 times.(äÕĞ¥üÿÿÿÿ8‚éÂúÚ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú•­şÿÿÿÿ8„éÂúÚ1
+a
+java:S4143"DVerify this is the key that was intended; it was already set before.(Â¾Ğ8¡éÂúÚ1
+L	java:S106"+Replace this use of System.out by a logger.(äÕĞ¥üÿÿÿÿ8¦éÂúÚ1
+G	java:S106"+Replace this use of System.out by a logger.(ƒÆĞí8§éÂúÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¨éÂúÚ1
+L	java:S106"+Replace this use of System.out by a logger.(™äÿóüÿÿÿÿ8­éÂúÚ1
+L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¯éÂúÚ1
+G	java:S106%"+Replace this use of System.out by a logger.(í§ã¬8²éÂúÚ1
+L	java:S106,"+Replace this use of System.out by a logger.(™äÿóüÿÿÿÿ8³éÂúÚ1
+L	java:S106."+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8´éÂúÚ1
+G	java:S1062"+Replace this use of System.out by a logger.(í§ã¬8¯öÄúÚ1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¶öÄúÚ1
