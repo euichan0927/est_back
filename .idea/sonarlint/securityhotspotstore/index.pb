@@ -171,3 +171,9 @@ N
 Chapter11/HashMapExample2.java,f\6\f6c878b83a5737e737632b17afcf6938891dd8fd
 O
 Chapter11/HashTableExample.java,0\2\025ae1a84bdb73febb22e389ffa8d3e4e5737b12
+D
+Chapter11/Stack.java,7\f\7f54a999b0c9755d0e67740c8c30635a5cd0b16c
+D
+Chapter11/Queue.java,7\4\7442031aea2b7ab26f6bc98f4e836d1b468c8bd1
+K
+Chapter11/StackExample.java,e\2\e242f25bad742e8d72cedc1b71dce10010d5eb7e
