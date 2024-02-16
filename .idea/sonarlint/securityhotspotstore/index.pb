@@ -179,3 +179,5 @@ K
 Chapter11/StackExample.java,e\2\e242f25bad742e8d72cedc1b71dce10010d5eb7e
 K
 Chapter11/QueueExample.java,a\f\af1270165159e3cbb6c1331e9175beca9f6be482
+F
+WeeklyQuiz04/Main.java,e\4\e4fbc76df19b5682277d53a688adbf91c5627e6e
