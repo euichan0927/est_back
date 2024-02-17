@@ -17,5 +17,22 @@ public class LamdaExample {
 
 		finter = () -> System.out.println("method call 3");
 		finter.method();
+
+		MyFunctionalInterface2 finter2;
+		finter2 = (x) -> {
+			System.out.println("method call" + x);
+		};
+		finter2.method(5);
+
+		finter2 = (x) -> System.out.println(x*5);
+		finter2.method(5);
+
+		MyFunctionalInterface3 finter3;
+		finter3 = (x,y) -> {
+			return x+y;
+		};
+		System.out.println(finter3.method(4,6));
 	}
+
+
 }

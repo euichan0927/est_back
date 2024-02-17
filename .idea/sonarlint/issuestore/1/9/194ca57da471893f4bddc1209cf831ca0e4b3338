@@ -1,7 +1,18 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ëšõ8ší­Û1
-F	java:S106	"+Replace this use of System.out by a logger.(ƒÚáB8­ší­Û1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ëšõ8ø¬ ®Û1
+F	java:S106	"+Replace this use of System.out by a logger.(ƒÚáB8ş¬ ®Û1
 N
-java:S1602",Remove useless curly braces around statement(†æ¹áşÿÿÿÿ8®ší­Û1
-L	java:S106"+Replace this use of System.out by a logger.(À‹ŠĞşÿÿÿÿ8®ší­Û1
-L	java:S106"+Replace this use of System.out by a logger.(æÉƒ…øÿÿÿÿ8ş»î­Û1
+java:S1602",Remove useless curly braces around statement(†æ¹áşÿÿÿÿ8ÿ¬ ®Û1
+L	java:S106"+Replace this use of System.out by a logger.(À‹ŠĞşÿÿÿÿ8ÿ¬ ®Û1
+L	java:S106"+Replace this use of System.out by a logger.(æÉƒ…øÿÿÿÿ8ÿ¬ ®Û1
+L
+java:S1611"/Remove the parentheses around the "x" parameter(©ó»“8ÿ¬ ®Û1
+I
+java:S1602",Remove useless curly braces around statement(©ó»“8ÿ¬ ®Û1
+L	java:S106"+Replace this use of System.out by a logger.(ŠÿÏ‚ùÿÿÿÿ8ÿ¬ ®Û1
+Q
+java:S1611"/Remove the parentheses around the "x" parameter(ÀÉâôÿÿÿÿÿ8€­ ®Û1
+L	java:S106"+Replace this use of System.out by a logger.(ÀÉâôÿÿÿÿÿ8€­ ®Û1
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword( ê¥±úÿÿÿÿ8€­ ®Û1
+G	java:S106""+Replace this use of System.out by a logger.(Œå¼§8æŠ¢®Û1

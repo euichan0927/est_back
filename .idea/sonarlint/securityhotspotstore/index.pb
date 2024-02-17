@@ -185,3 +185,7 @@ K
 Chapter12/LamdaExample.java,1\9\194ca57da471893f4bddc1209cf831ca0e4b3338
 T
 $Chapter12/MyFunctionalInterface.java,5\6\567ec9416b5075d67e0ec7a6d97b1d8f3ed8ce8b
+U
+%Chapter12/MyFunctionalInterface2.java,a\3\a3fdb5f9e75799ec8a0abfda55a77eed3b234d02
+U
+%Chapter12/MyFunctionalInterface3.java,1\c\1cd64668fa8c95078182b8970a186bf389543c7f
