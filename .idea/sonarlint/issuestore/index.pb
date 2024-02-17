@@ -181,3 +181,7 @@ K
 Chapter11/QueueExample.java,a\f\af1270165159e3cbb6c1331e9175beca9f6be482
 F
 WeeklyQuiz04/Main.java,e\4\e4fbc76df19b5682277d53a688adbf91c5627e6e
+K
+Chapter12/LamdaExample.java,1\9\194ca57da471893f4bddc1209cf831ca0e4b3338
+T
+$Chapter12/MyFunctionalInterface.java,5\6\567ec9416b5075d67e0ec7a6d97b1d8f3ed8ce8b
