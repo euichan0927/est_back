@@ -171,10 +171,6 @@ N
 Chapter11/HashMapExample2.java,f\6\f6c878b83a5737e737632b17afcf6938891dd8fd
 O
 Chapter11/HashTableExample.java,0\2\025ae1a84bdb73febb22e389ffa8d3e4e5737b12
-D
-Chapter11/Stack.java,7\f\7f54a999b0c9755d0e67740c8c30635a5cd0b16c
-D
-Chapter11/Queue.java,7\4\7442031aea2b7ab26f6bc98f4e836d1b468c8bd1
 K
 Chapter11/StackExample.java,e\2\e242f25bad742e8d72cedc1b71dce10010d5eb7e
 K
@@ -189,3 +185,13 @@ U
 %Chapter12/MyFunctionalInterface2.java,a\3\a3fdb5f9e75799ec8a0abfda55a77eed3b234d02
 U
 %Chapter12/MyFunctionalInterface3.java,1\c\1cd64668fa8c95078182b8970a186bf389543c7f
+G
+Chapter12/Supplier.java,7\9\79dca8152f6cdffd9139613a3d2e26894b44e679
+G
+Chapter12/Runnable.java,9\3\93329639050306b798d1a45f922a1465c58f4235
+G
+Chapter12/Consumer.java,7\f\7f8feb99ecd618c3a5393518772e563e6fb9cb03
+G
+Chapter12/Function.java,f\1\f1b1bb47349e878b5d67a39f47e6a170a43c6b81
+H
+Chapter12/Predicate.java,5\7\57c73b8a709c5dce21f770eda44986495500446f

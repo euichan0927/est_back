@@ -169,3 +169,19 @@ I
 Chapter11/MapExample.java,a\6\a6bab564f2ff83a66ee2b039ed3c1d31c76570b4
 N
 Chapter11/HashMapExample2.java,f\6\f6c878b83a5737e737632b17afcf6938891dd8fd
+O
+Chapter11/HashTableExample.java,0\2\025ae1a84bdb73febb22e389ffa8d3e4e5737b12
+K
+Chapter11/StackExample.java,e\2\e242f25bad742e8d72cedc1b71dce10010d5eb7e
+K
+Chapter11/QueueExample.java,a\f\af1270165159e3cbb6c1331e9175beca9f6be482
+F
+WeeklyQuiz04/Main.java,e\4\e4fbc76df19b5682277d53a688adbf91c5627e6e
+K
+Chapter12/LamdaExample.java,1\9\194ca57da471893f4bddc1209cf831ca0e4b3338
+T
+$Chapter12/MyFunctionalInterface.java,5\6\567ec9416b5075d67e0ec7a6d97b1d8f3ed8ce8b
+U
+%Chapter12/MyFunctionalInterface2.java,a\3\a3fdb5f9e75799ec8a0abfda55a77eed3b234d02
+U
+%Chapter12/MyFunctionalInterface3.java,1\c\1cd64668fa8c95078182b8970a186bf389543c7f

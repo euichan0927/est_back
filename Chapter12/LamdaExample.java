@@ -32,6 +32,21 @@ public class LamdaExample {
 			return x+y;
 		};
 		System.out.println(finter3.method(4,6));
+
+		Runnable r = () -> System.out.println("Runnable 실행");
+		r.run();
+
+		Supplier<String> s = () -> "리턴되는 값";
+		System.out.println(s.get());
+
+		Consumer<String> c = (x) -> System.out.println(x);
+		c.c("consumer");
+
+		Function<Integer,String> f = (x) -> String.valueOf(x);
+		System.out.println(f.apply(3));
+
+		Predicate<Integer> p = (x) -> x%2==0;
+		System.out.println(p.test(2));
 	}
 
 
