@@ -197,3 +197,11 @@ H
 Chapter12/Predicate.java,5\7\57c73b8a709c5dce21f770eda44986495500446f
 ]
 -Chapter12/ArgumentMethodReferenceExample.java,0\5\05fa18eba51595dd5d21a4fc61adc366313f2cc8
+E
+Chapter12/Member.java,0\8\0828fe0c3f41692dcf7e552b95db03f8fdb5b33d
+[
++Chapter12/ConstructorReferencesExample.java,2\8\28fcb4583b7aa74915b968a4414f09ca15be0495
+L
+Chapter13/StreamExample.java,f\2\f21e778b29ba06de687ac11f1fb3ae48a4d4762b
+C
+Chapter13/List.java,d\4\d49e8d07a03dc40b5f807c8f65c09241f45f6485
