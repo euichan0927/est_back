@@ -195,3 +195,5 @@ G
 Chapter12/Function.java,f\1\f1b1bb47349e878b5d67a39f47e6a170a43c6b81
 H
 Chapter12/Predicate.java,5\7\57c73b8a709c5dce21f770eda44986495500446f
+]
+-Chapter12/ArgumentMethodReferenceExample.java,0\5\05fa18eba51595dd5d21a4fc61adc366313f2cc8
