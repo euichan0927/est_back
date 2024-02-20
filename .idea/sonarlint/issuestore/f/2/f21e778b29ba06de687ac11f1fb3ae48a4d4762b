@@ -1,6 +1,19 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(―Λ“Πώÿÿÿÿ8™Άω€ά1
-G	java:S106"+Replace this use of System.out by a logger.(†™ρ‹8΅Άω€ά1
-L	java:S106"+Replace this use of System.out by a logger.(…Ρ®ÿÿÿÿÿ8£Άω€ά1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(―Λ“Πώÿÿÿÿ8£Χ¦ά1
+G	java:S106"+Replace this use of System.out by a logger.(†™ρ‹8Ξ£Χ¦ά1
+L	java:S106"+Replace this use of System.out by a logger.(…Ρ®ÿÿÿÿÿ8Ò£Χ¦ά1
+L	java:S106"+Replace this use of System.out by a logger.(ƒΧΒεύÿÿÿÿ8Ò£Χ¦ά1
+G	java:S106"+Replace this use of System.out by a logger.(θικΨ8Σ£Χ¦ά1
+L	java:S106"+Replace this use of System.out by a logger.(ΡΨ„ªόÿÿÿÿ8Υ£Χ¦ά1
+G	java:S106"+Replace this use of System.out by a logger.(χ΄8Χ£Χ¦ά1
+L	java:S106 "+Replace this use of System.out by a logger.(‘“ο΅ÿÿÿÿÿ8Χ£Χ¦ά1
+L	java:S106!"+Replace this use of System.out by a logger.(‹µ‰θωÿÿÿÿ8Χ£Χ¦ά1
+G	java:S106'"+Replace this use of System.out by a logger.(‚¨Φ§8Ω£Χ¦ά1
+n
+java:S6204+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¤•Γ08Ω£Χ¦ά1
+G	java:S106,"+Replace this use of System.out by a logger.(€†­π8Ϊ£Χ¦ά1
+L	java:S106/"+Replace this use of System.out by a logger.(ΎέιΛϋÿÿÿÿ8®—Ψ¦ά1
 M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(χ‰ξƒ8Ήξω€ά1
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(χ‰ξƒ8Ϋ£Χ¦ά1
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(επΧ±ϋÿÿÿÿ8Ϋ£Χ¦ά1

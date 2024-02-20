@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ëšõ8«ÏÁşÛ1
+e
+java:S1612	"HReplace this lambda with method reference 'String::compareToIgnoreCase'.(ÜŸ­î8ÑÏÁşÛ1
+G	java:S106"+Replace this use of System.out by a logger.(ıçÉ8ôÏÁşÛ1
+G	java:S106"+Replace this use of System.out by a logger.(œüé¨8õÏÁşÛ1
+G	java:S106"+Replace this use of System.out by a logger.(ÎÒ¨ï8õÏÁşÛ1

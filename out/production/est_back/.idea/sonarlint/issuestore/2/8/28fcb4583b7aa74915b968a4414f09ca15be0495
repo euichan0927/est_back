@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ëšõ8ı¿ÿÛ1
+Q
+java:S1611"/Remove the parentheses around the "x" parameter(ëÑŸàüÿÿÿÿ8‡ÀÿÛ1
+Z
+java:S1612"8Replace this lambda with method reference 'Member::new'.(ëÑŸàüÿÿÿÿ8‡ÀÿÛ1
+Z
+java:S1612"8Replace this lambda with method reference 'Member::new'.(¥³€ûÿÿÿÿ8‰ÀÿÛ1
