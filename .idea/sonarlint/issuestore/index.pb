@@ -205,3 +205,9 @@ L
 Chapter13/StreamExample.java,f\2\f21e778b29ba06de687ac11f1fb3ae48a4d4762b
 N
 Chapter13/StreamPractice1.java,5\6\564ccc78b0b8651a0e8ab0a4a1fa9d374469fe5f
+N
+Chapter13/StreamPractice2.java,5\b\5bff528e16412adf5e374d625af5422c3b2db152
+E
+Chapter13/Member.java,3\d\3d5702232119f332bcd36d6cce7b6f67fe2d0f34
+E
+Chapter13/Person.java,0\6\0613f6286e16918f9ea823f23a7d0c0c6f9a7205

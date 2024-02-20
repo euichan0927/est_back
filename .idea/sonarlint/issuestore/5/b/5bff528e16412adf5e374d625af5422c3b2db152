@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯Ë“Ğşÿÿÿÿ8£Ï˜¨Ü1
+[
+java:S1854">Remove this useless assignment to local variable "personList".(Óë–8æÔ¨Ü1
+[
+java:S1854">Remove this useless assignment to local variable "personList".(¹šŞö8÷Ï˜¨Ü1
+L
+java:S1481"/Remove this unused "personList" local variable.(¹šŞö8éÔ¨Ü1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ˆĞ˜¨Ü1
+>
+java:S3864"!Remove this use of "Stream.peek".(î³Œ«8–µ¨Ü1
+G	java:S106"+Replace this use of System.out by a logger.(î³Œ«8—µ¨Ü1
