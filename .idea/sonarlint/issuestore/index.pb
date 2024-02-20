@@ -203,3 +203,5 @@ E
 +Chapter12/ConstructorReferencesExample.java,2\8\28fcb4583b7aa74915b968a4414f09ca15be0495
 L
 Chapter13/StreamExample.java,f\2\f21e778b29ba06de687ac11f1fb3ae48a4d4762b
+N
+Chapter13/StreamPractice1.java,5\6\564ccc78b0b8651a0e8ab0a4a1fa9d374469fe5f
